@@ -179,8 +179,8 @@ if($_SERVER["REQUEST_METHOD"] == "POST")
 <div class="footer">
 
   <div id="item2">
-      <h3>Name :YB Corporation</h3>
-      <h3>Customer Service : 9876543211</h3>
+      <h3>Name :Company name</h3>
+      <h3>Customer Service : 9876543210</h3>
       
       
       
