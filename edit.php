@@ -217,8 +217,8 @@ font-weight:bold;
     <div class="footer">
 
   <div id="item2">
-      <h3>Name :YB Corporation</h3>
-      <h3>Customer Service : 9876543211</h3>
+      <h3>Name :Company name</h3>
+      <h3>Customer Service : 9876543210</h3>
       <a href="https://www.gmail.com"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTklqAVw0CSx1OSi80OBXeHo_YI-CEdbcxMKA&usqp=CAU" id="idimg1"></a>
       &nbsp;
       <a href="https://www.instagram.com"><img src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png" id="idimg1"></a>
